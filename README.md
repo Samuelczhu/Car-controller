@@ -1,5 +1,5 @@
 # Car-controller
-This app is use to send data through bluetooth to arduino:)
+This app is use to send data through bluetooth to arduino, and it is intend to control a toy car wirelessly :)
 
 # Images
 
